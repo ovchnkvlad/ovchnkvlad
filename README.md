@@ -1,4 +1,4 @@
-# Hi, I'm Vladislav 👋
+# Hi, I'm Vlad 👋
 
 **DevOps · Linux Administration · Cloud Infrastructure · Security**
 
@@ -54,4 +54,4 @@ and no credentials committed to source control.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladislav_Ovchynnyk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ovchynnyk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vlad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-ovchynnyk/)
